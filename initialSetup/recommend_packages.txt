@@ -1,0 +1,10 @@
+file-icons
+highlight-line
+highlight-selected
+minimap
+minimap-cursorline
+minimap-find-and-replace
+minimap-highlight-selected
+japanese-menu
+japanese-word-selection
+project-manager
