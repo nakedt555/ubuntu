@@ -8,3 +8,4 @@ minimap-highlight-selected
 japanese-menu
 japanese-word-selection
 project-manager
+language-cmake
